@@ -38,7 +38,7 @@ A full-stack online flight ticket booking platform with user authentication, AWS
 - User registration and login with JWT authentication
 - Search and browse available flights
 - Book flight tickets
-- Email confirmation on successful booking
+- Nodemailer integrated for email notification support
 - Secure password storage with bcrypt hashing
 - AWS cloud integration for storage and scalability
 
